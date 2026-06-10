@@ -6,10 +6,10 @@ This repository follows the non-invasive Anchora AI-Ready Baseline for work by C
 
 ## Read Order
 
-1. \ for provenance and repository routing context.
-2. \ for product or project-specific instructions, if present.
-3. \ for AI operating context.
-4. \ for current handoff status.
+1. repo.manifest.yaml for provenance and repository routing context.
+2. README.md for product or project-specific instructions, if present.
+3. AI_CONTEXT.md for AI operating context.
+4. docs/ai/handoff.md for current handoff status.
 5. Local docs, scripts, tests, and source files before changing behavior.
 
 ## Operating Rules
@@ -27,4 +27,4 @@ Before finishing any future code change, identify and run the relevant validatio
 
 ## Handoff
 
-After meaningful work, update \ with: what changed, validation performed, open risks, and recommended next step.
+After meaningful work, update docs/ai/handoff.md with: what changed, validation performed, open risks, and recommended next step.

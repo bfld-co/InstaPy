@@ -2,23 +2,23 @@
 
 ## Repository
 
-- Repository: \
+- Repository: anchora-co/InstaPy
 - URL: https://github.com/anchora-co/InstaPy
-- Visibility: \
-- Description: "📷 Instagram Bot - Tool for automated Instagram interactions"
+- Visibility: PUBLIC
+- Description: 📷 Instagram Bot - Tool for automated Instagram interactions
 
 ## Provenance
 
-- Current organization: \
-- Previous owner namespace: \
+- Current organization: anchora-co
+- Previous owner namespace: asilva-art
 - Provenance owner: Alencar Silva
-- GitHub login: \
-- Corporate email context: \
-- Manifest: \
+- GitHub login: asilva-art
+- Corporate email context: asilva@vmarquitetos.com
+- Manifest: repo.manifest.yaml
 
 ## Baseline
 
-- Baseline: \
+- Baseline: anchora-ai-ready-context-v1
 - Scope: documentation-only, non-invasive AI operating context
 - Behavior impact: none
 - Linear impact: none
@@ -26,11 +26,11 @@
 
 ## How AI Agents Should Work Here
 
-1. Start by reading \, then this file, then \ and local docs.
+1. Start by reading repo.manifest.yaml, then this file, then README.md and local docs.
 2. Identify whether the repo is product, skill, documentation, automation, landing page, personal boundary, external fork, or shared engineering asset.
 3. Preserve the existing system shape before proposing changes.
 4. Do not invent missing commands, architecture, ownership, or business rules.
-5. Keep handoff notes in \ after meaningful work.
+5. Keep handoff notes in docs/ai/handoff.md after meaningful work.
 
 ## Notes
 
