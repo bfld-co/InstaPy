@@ -1,0 +1,37 @@
+schema_version: "1.0"
+repository:
+  name: "InstaPy"
+  current_owner: "anchora-co"
+  current_url: "https://github.com/anchora-co/InstaPy"
+  visibility: "PUBLIC"
+  default_branch: "master"
+  archived: false
+  empty_before_manifest: false
+  last_pushed_at: "2025-03-03T17:10:09Z"
+  description: "📷 Instagram Bot - Tool for automated Instagram interactions"
+
+organizational_provenance:
+  current_organization: "anchora-co"
+  migrated_from_owner: "asilva-art"
+  migrated_from_url: "https://github.com/asilva-art/InstaPy"
+  origin_classification: "Alencar / asilva-art"
+  provenance_owner:
+    name: "Alencar Silva"
+    github_login: "asilva-art"
+    corporate_email: "asilva@vmarquitetos.com"
+  access_context: "Repository was operated through the asilva-art GitHub account before transfer to anchora-co."
+  collaboration_note: "Single-origin provenance detected from asilva-art namespace redirect."
+  recorded_at: "2026-06-10"
+  recorded_by: "Codex via GitHub CLI"
+  evidence:
+    - "GitHub namespace redirect from asilva-art/InstaPy to anchora-co/InstaPy was verified after transfer."
+    - "Authenticated GitHub account metadata for asilva-art returned name Alencar Silva and email asilva@vmarquitetos.com."
+
+ai_governance:
+  baseline: "anchora-ai-ready-provenance-v1"
+  workflow_owner: "alencar"
+  workflow_variant: "avas-workforce"
+  change_scope: "documentation-only"
+  behavior_impact: "none"
+  linear_impact: "none"
+  note: "This manifest documents organizational provenance and operating context only; it does not assert copyright ownership or authorship of every historical commit."
